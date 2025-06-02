@@ -1,4 +1,4 @@
-# Outli********er Removal Exercise🎉️
+# Outlier Removal Exercise🎉️
 
 This work demonstrates how to remove outliers using the Percentile, Standard Deviation, Z-Score method in Python.
 
